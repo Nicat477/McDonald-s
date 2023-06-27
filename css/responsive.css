@@ -42,9 +42,14 @@
   .recipe_section {
     padding-bottom: 90px;
   }
-
+  .woltt{
+    position: static;
+    width: 100%;
+    height: auto;
+    transform: none;
+  }
   .app_section {
-    background: #4855fe;
+    background-color: yellow;
     padding: 75px 0;
   }
 

@@ -535,6 +535,7 @@ a:focus {
   margin-top: 50px;
   padding: 100px 0 100px 0;
   color: #ffffff;
+  position:relative;
 }
 
 .app_section .row {
@@ -547,9 +548,7 @@ a:focus {
   margin-bottom: 25px;
 }
 
-.app_section .detail-box h2 span {
-  
-}
+
 
 .app_section .detail-box p {
   margin-bottom: 0;
@@ -732,14 +731,14 @@ a:focus {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 350px;
+  max-width: 200px;
   margin: auto;
 }
 
 .info_section .contact_box a {
   margin: 0 10px;
   font-size: 24px;
-  color: #ffffff;
+  color:black;
 }
 
 .info_section .contact_box a:hover {
@@ -758,7 +757,7 @@ a:focus {
 .info_section .social_box a {
   margin: 0 20px;
   font-size: 18px;
-  color: #ffffff;
+  color: black;
 }
 
 .info_section .social_box a:hover {
@@ -786,7 +785,7 @@ a:focus {
 }
 
 .info_section .info_links ul li a {
-  color: #ffffff;
+  color: black;
 }
 
 .info_section .info_links ul li a:hover {
